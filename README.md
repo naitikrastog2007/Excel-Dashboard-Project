@@ -53,7 +53,7 @@ Key metrics shown dynamically:
 
 ## 🚀 How to Use
 
-1. Open Cleaned Data and Dashbord.xlsx.
+1. Open CleanedData_Dashboard.xlsx.
 2. Go to *Sheet2* to view the interactive dashboard.
 3. Use the month slicer on the left to explore data for each month.
 
