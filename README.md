@@ -25,10 +25,10 @@ Key metrics shown dynamically:
 - Raw Data.xlsx  
   → Original uncleaned hospital dataset.
 
-- Cleaned Data and Dashbord.xlsx  
+- CleanedData_Dashboard.xlsx  
   → Cleaned data on Sheet1, dashboard created on Sheet2.
 
-- dashboard-screenshot.png  
+- dashboard-screenshot.PNG  
   → Screenshot of the final interactive Excel dashboard.
 
 ---
